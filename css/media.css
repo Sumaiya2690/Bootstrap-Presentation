@@ -1,0 +1,231 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+header{
+    padding: 20px 0 50px 0;
+}
+.logo{
+    width: 70%;
+
+}
+.menu ul li a {
+    text-align: right;
+    font-size: 20px;
+    padding: 0 0 4px !important;
+}
+.banner h1 {
+    font-size: 48px;
+}
+.banner p {
+    font-size: 22px;
+}
+/*discount start*/
+.dis_text {
+    margin-top: 0px;
+    margin-right: 26px;
+    margin-left: 26px;
+    padding-top: 85px;
+    padding-bottom: 35px;
+}
+/*discount end*/
+/*order start*/
+.o_body {
+    padding: 20px;
+}
+/*order end*/
+/*free start*/
+.f_title h1 {
+    font-size: 55px;
+}
+/*free end*/
+/*footer*/
+.f_2{
+    padding: 25px 55px;
+}
+}
+/*/
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+header{
+    padding: 20px 0 50px 0;
+}
+.menu ul li a {
+    text-align: right;
+    font-size: 20px;
+    padding: 0 0 4px !important;
+}
+.banner h1 {
+    font-size: 52px;
+}
+.banner p {
+    font-size: 26px;
+}
+
+/*discount start*/
+.dis_text {
+    margin-top: 0px;
+    margin-right: 26px;
+    margin-left: 26px;
+    padding-top: 85px;
+    padding-bottom: 35px;
+}
+/*discount end*/
+/*order start*/
+.o_body {
+    padding: 20px;
+}
+/*order end*/
+/*free start*/
+.f_title h1 {
+    font-size: 55px;
+}
+/*free end*/
+/*footer*/
+.f_2{
+    padding: 25px 55px;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+header{
+    padding: 20px 0 50px 0;
+}
+.menu ul li a {
+    text-align: right;
+    font-size: 20px;
+    padding: 0 0 4px !important;
+}
+.banner h1 {
+    font-size: 52px;
+}
+.banner p {
+    font-size: 26px;
+}
+
+/*discount start*/
+.discount img {
+    width: 106%;
+}
+.wrapper_dot3 {
+    bottom: -3924px;
+    left: 109px;
+}
+.dis_text {
+    margin-top: 0px;
+    margin-right: 26px;
+    margin-left: 26px;
+    padding-top: 58px;
+    padding-bottom: 58px;
+}
+.dis_text h1{
+    font-size: 28px;
+}
+.dis_text p{
+    font-size: 18px;
+}
+.dis_text .bttn{
+    padding-top: 4px;
+    padding-bottom: 10px
+}
+/*discount end*/
+/*order start*/
+.o_body {
+    padding: 24px;
+}
+/*order end*/
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+header{
+    padding: 20px 0 50px 0;
+}
+.menu ul li a {
+    font-size: 20px;
+    padding: 0 18px;
+}
+.banner h1 {
+    font-size: 72px;
+}
+
+/*banner*/
+
+/*pop menu*/
+.p_single h2{
+    font-size: 28px;
+}
+.p_single p{
+    font-size: 18px;  
+}
+.wrapper_dot2{
+
+}
+/*discount start*/
+.discount img {
+    width: 105%;
+}
+.wrapper_dot3 {
+
+}
+.dis_text {
+    margin-top: 32px;
+    padding-bottom: 0;
+}
+.dis_text h1{
+    font-size: 32px;
+}
+.dis_text p{
+    font-size: 22px;
+}
+/*discount end*/
+/*promo start*/
+.wrapper_dot4 {
+
+}
+/*promo end*/
+}
+
+/*X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+header{
+    padding: 20px 0 60px 0;
+}
+.menu ul li a {
+    font-size: 20px;
+    padding: 0 18px !important;
+}
+.banner h1 {
+    font-size: 84px;
+}
+/*banner*/
+/*discount start*/
+.discount img {
+    width: 104%;
+}
+.dis_text {
+    margin-top: 55px;
+    padding-bottom: 10px;
+}
+.dis_text h1{
+    font-size: 42px;
+}
+.dis_text p{
+    font-size: 28px;
+}
+/*discount end*/
+/*promo start*/
+.wrapper_dot4 {
+
+}
+/*promo end*/
+ }
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+/*.wrapper_dot2 {
+    bottom: -1554px;
+}*/
+}
